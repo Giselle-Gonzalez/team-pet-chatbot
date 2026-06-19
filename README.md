@@ -16,14 +16,9 @@ Promover la adopción responsable y la concientización sobre el bienestar anima
 Tecnologías utilizadas
 HTML5
 
-
 Mascota virtual: Byte 🐶
 
 Byte es la mascota virtual de Team Pet y acompaña al usuario durante todo el proceso de orientación, brindando información clara, amigable y educativa.
-
-Autores
-
-Proyecto académico desarrollado para la materia correspondiente.
 
 Historia del nombre
 
